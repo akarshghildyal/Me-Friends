@@ -1,0 +1,5 @@
+streamlit
+speech_recognition
+gtts
+requests
+streamlit-shadcn-ui
